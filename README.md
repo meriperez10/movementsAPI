@@ -16,7 +16,7 @@ Antes de iniciar el proyecto, asegúrate de tener instalados los siguientes comp
 
 Abre la terminal y ejecuta:
 
-$ git clone https://github.com/meriperez10/movements-API
+$ git clone https://github.com/meriperez10/movementsAPI
 
 $ dotnet restore
 
