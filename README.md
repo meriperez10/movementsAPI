@@ -21,7 +21,8 @@ $ git clone https://github.com/meriperez10/movementsAPI
 $ cd movementsAPI
 
 $ cd Movements
-Es necesario entrar en la carpeta Movements porque es la que contiene el archivo de proyecto (.csproj) y el punto de entrada de la API.
+
+Importante: Es necesario entrar en la carpeta Movements porque es la que contiene el archivo de proyecto (.csproj) y el punto de entrada de la API.
 
 $ dotnet restore
 
