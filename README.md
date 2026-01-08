@@ -2,7 +2,7 @@
 
 # MovementsAPI
 
-MovementsAPI es una API desarrollada en .NET 8.0 que permite gestionar movimientos y transacciones. 
+MovementsAPI es una API desarrollada en .NET 8.0 que permite gestionar movimientos. 
 
 ## Requisitos previos
 
