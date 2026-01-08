@@ -1,0 +1,17 @@
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\bin\Debug\net8.0\Core.dll
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\bin\Debug\net8.0\Core.pdb
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache

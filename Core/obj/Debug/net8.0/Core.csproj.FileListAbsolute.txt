@@ -1,0 +1,11 @@
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Core\bin\Debug\net8.0\Core.deps.json
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Core\bin\Debug\net8.0\Core.dll
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Core\bin\Debug\net8.0\Core.pdb
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Core\obj\Debug\net8.0\Core.dll
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Core\obj\Debug\net8.0\refint\Core.dll
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Core\obj\Debug\net8.0\Core.pdb
+D:\OneDrive - Weber Solutions S.L\Escritorio\Proyecto Final\MovementsAPI\Core\obj\Debug\net8.0\ref\Core.dll
