@@ -30,5 +30,5 @@ $ dotnet build
 
 $ dotnet run
 
-Una vez que la terminal indique que la aplicación está corriendo (Now listening on: http://localhost:5015), abre tu navegador y ve a:  http://localhost:5015 
+Una vez se indique que la aplicación está corriendo (Now listening on: http://localhost:5015), abre el navegador y ve a:  http://localhost:5015 
 
